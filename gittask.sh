@@ -8,6 +8,10 @@ function read_resource () {
 	pbpaste >> "test.txt"
 }
 
+function clone () {
+	echo "execute function:clone"
+}
+
 function commit () {
 	echo "execute function:commit"
 }
