@@ -1,2 +1,2 @@
 #!/bin/bash
-repo_url="https://github.com/ParsifalC/ImageUploaderWorkflow"
+repo_url="https://github.com/ParsifalC/Resources.git"
